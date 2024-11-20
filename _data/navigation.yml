@@ -11,6 +11,10 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
+  
+  - title: "Blog"
+    url: "/blog/"
+
 
   #- title: "Honors and Awards"
     #url: "/#-honors-and-awards"

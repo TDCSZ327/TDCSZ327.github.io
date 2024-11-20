@@ -46,7 +46,7 @@ I am passionate about machine learning and statistical learning. My  current res
 
 [Zihang Liu](https://zihanghliu.github.io)#, [Yuanzhe Hu](https://github.com/HUST-AI-HYZ)#, **Tianyu Pang**, [Yefan Zhou](https://yefanzhou.github.io), [Pu Ren](https://paulpuren.github.io), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
 
-[Code](https://github.com/ZihangHLiu/ModelBalancing)\|[Paper](https://arxiv.org/abs/2410.12178)
+[Code](https://github.com/ZihangHLiu/ModelBalancing)\|[Paper](https://arxiv.org/abs/2410.12178)\|[Video](https://us06web.zoom.us/rec/play/5RHeJiEVuG-yw_Ytt9cHPMzqEIm2xWenwjhHjJ4yt7camtmQObTndJ56YgBBw0A1TlNRGiwZ2MAw5klz.7Xm2WgzcHdxPjGqm?autoplay=true)
 
 **EMNLP 2024 <span style="color: red;">Oral</span>**
 
