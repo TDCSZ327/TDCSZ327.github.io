@@ -21,7 +21,7 @@ Hi, I'm Tianyu. I am a master student at [Department of Mathematics, Nanjing Uni
 
 I am passionate about mechanistic interpretability and model diagnostics . My  current research is focused on
 
-- understanding the mechanisms, dynamics, feature learning and generalization of ML models  from the perspective of random matrix theory, high-dimensional statistics and loss landscape;
+- understanding the mechanisms, dynamics and generalization of ML models  from the perspective of random matrix theory, high-dimensional statistics and loss landscape;
 - leveraging  model/data diagnostics and interpretability insights to improve the transparency, robustness and efficiency  of (scientific) machine learning.
 
 # 📖 Educations
