@@ -19,10 +19,10 @@ redirect_from:
 
 Hi, I'm Tianyu. I am a master student at [Department of Mathematics, Nanjing University](https://math.nju.edu.cn). I have the great honor of being advised by [Prof. Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) at Dartmouth College.
 
-I am passionate about machine learning and statistical learning. My  current research is focused on
+I am passionate about mechanistic interpretability and model diagnostics . My  current research is focused on
 
-- developing model/data diagnostics to improve the transparency, robustness and efficiency  of (scientific) machine learning;
-- understanding the dynamics, feature learning and generalization of ML models  from the perspective of random matrix theory, high-dimensional statistics and loss landscape.
+- understanding the mechanisms, dynamics, feature learning and generalization of ML models  from the perspective of random matrix theory, high-dimensional statistics and loss landscape;
+- leveraging  model/data diagnostics and interpretability insights to improve the transparency, robustness and efficiency  of (scientific) machine learning.
 
 # 📖 Educations
 
