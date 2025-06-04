@@ -17,20 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Tianyu. I am a master student at [Department of Mathematics, Nanjing University](https://math.nju.edu.cn). I have the great honor of being advised by [Prof. Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) at Dartmouth College.
+Hi, I'm Tianyu. I am an incoming Ph.D. student at Dartmouth College. I have the great honor of being advised by [Prof. Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/).
 
-I am passionate about mechanistic interpretability and model diagnostics . My  current research is focused on
+I am passionate about model diagnostics and mechanistic interpretability . My  current research is focused on
 
-- understanding the mechanisms, dynamics and generalization of ML models  from the perspective of random matrix theory, high-dimensional statistics and loss landscape;
+- understanding the mechanisms, dynamics and generalization of LLMs  from the perspective of random matrix theory, high-dimensional statistics and loss landscape;
 - leveraging  model/data diagnostics and interpretability insights to improve the transparency, robustness and efficiency  of (scientific) machine learning.
 
 # 📖 Educations
 
-- *2022.09 - present*, M.S. in Mathematics, Department of Mathematics, Nanjing University. 
+- *2025.09 - present*, Ph.D. in Machine Learning, Department of Computer Science, Dartmouth College.
+- *2022.09 - 2025.06*, M.S. in Mathematics, Department of Mathematics, Nanjing University. 
 - *2018.09 - 2022.06*, B.S. in Statistics, Kuang Yaming Honors School, Nanjing University. 
 
 
 # 🔥 News
+- *2025.05*: 🎉🎉 Excited to share that our work “LIFT the Veil for the Truth: Principal Weights Emerge after Rank Reduction for Reasoning-Focused Supervised Fine-Tuning” is accepted by [ICML 2025](https://icml.cc/) as **Poster**!
 - *2024.10*: &nbsp;😁 Completing a wonderful three-month visiting at Dartmouth College.
 - *2024.09*: &nbsp;🎉🎉 Excited to share that our work “Model Balancing Helps Low-data Training and Fine-tuning” is accepted by [EMNLP 2024](https://2024.emnlp.org) as **Oral Presentation**!
 - *2023.09*: &nbsp;🎉🎉 Excited to share that our work “Temperature Balancing, Layer-wise Weight Analysis, and Neural Network Training” is accepted by [NeurIPS 2023](https://neurips.cc/Conferences/2023) as **Spotlight**!
@@ -38,6 +40,22 @@ I am passionate about mechanistic interpretability and model diagnostics . My  c
 # 📝 Publications 
 
 （# denotes equal contribution）
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ICML_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**LIFT the Veil for the Truth: Principal Weights Emerge after Rank Reduction for Reasoning-Focused Supervised Fine-Tuning**
+
+[Zihang Liu](https://zihanghliu.github.io), **Tianyu Pang**, [Oleg Balabanov](https://scholar.google.com/citations?user=N-Rm3SIAAAAJ&hl=en), Chaoqun Yang, [Tianjin Huang](https://tianjinyellow.github.io/), [Lu Yin](https://luuyin.com/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/), [Shiwei Liu](https://shiweiliuiiiiiii.github.io/)
+
+[Code]( https://github.com/zihanghliu/LIFT)\|[Paper](https://arxiv.org/pdf/2506.00772)
+
+**ICML 2025**
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/EMNLP_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
