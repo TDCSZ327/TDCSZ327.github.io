@@ -110,6 +110,8 @@ In submisson, 2025
 
 [Lei Hsiung](https://hsiung.cc/), **Tianyu Pang**, [Yung-Chen Tang](https://sites.google.com/view/yungchentang), [Linyue Song](https://www.linkedin.com/in/linyue-song), [Tsung-Yi Ho](https://www.cse.cuhk.edu.hk/people/faculty/tsung-yi-ho/), [Pin-yu Chen](https://sites.google.com/site/pinyuchenpage) , [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
 
+[Paper](https://arxiv.org/abs/2506.05346)\|[Demo](https://hsiung.cc/llm-similarity-risk/)
+
 In submisson, 2025
 
 </div>
