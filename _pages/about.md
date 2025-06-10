@@ -57,6 +57,26 @@ I am passionate about model diagnostics and mechanistic interpretability . My  c
 </div>
 </div>
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/EMNLP_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+
+**Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets** 
+
+[Lei Hsiung](https://hsiung.cc/), **Tianyu Pang**, [Yung-Chen Tang](https://sites.google.com/view/yungchentang), [Linyue Song](https://www.linkedin.com/in/linyue-song), [Tsung-Yi Ho](https://www.cse.cuhk.edu.hk/people/faculty/tsung-yi-ho/), [Pin-yu Chen](https://sites.google.com/site/pinyuchenpage) , [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
+
+[Paper](https://arxiv.org/abs/2506.05346)\|[Demo](https://hsiung.cc/llm-similarity-risk/)
+
+**ICML 2025 Workshop DIG-BUG**
+
+</div>
+
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/EMNLP_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -94,23 +114,6 @@ I am passionate about model diagnostics and mechanistic interpretability . My  c
 [Vignesh Kothapalli](https://kvignesh1420.github.io), **Tianyu Pang**, [Shenyang Deng](https://scholar.google.com/citations?user=TvUZLD8AAAAJ&hl=en&oi=ao), [Zongmin Liu](https://www.linkedin.com/in/zongmin-dylan-liu-73438a242/details/education/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
 
 [Code](https://github.com/kvignesh1420/single-index-ht)\|[Paper](https://arxiv.org/pdf/2406.04657)
-
-In submisson, 2025
-
-</div>
-
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/EMNLP_2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-
-**Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets** 
-
-[Lei Hsiung](https://hsiung.cc/), **Tianyu Pang**, [Yung-Chen Tang](https://sites.google.com/view/yungchentang), [Linyue Song](https://www.linkedin.com/in/linyue-song), [Tsung-Yi Ho](https://www.cse.cuhk.edu.hk/people/faculty/tsung-yi-ho/), [Pin-yu Chen](https://sites.google.com/site/pinyuchenpage) , [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
-
-[Paper](https://arxiv.org/abs/2506.05346)\|[Demo](https://hsiung.cc/llm-similarity-risk/)
 
 In submisson, 2025
 
