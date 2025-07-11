@@ -71,7 +71,7 @@ I am passionate about model diagnostics and mechanistic interpretability . My  c
 
 [Paper](https://arxiv.org/abs/2506.05346)\|[Demo](https://hsiung.cc/llm-similarity-risk/)
 
-**ICML 2025 Workshop DIG-BUG**
+**ICML 2025 Workshop DIG-BUG <span style="color: red;">Oral</span>**
 
 </div>
 
