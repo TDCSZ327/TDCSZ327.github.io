@@ -32,6 +32,7 @@ I am passionate about model diagnostics and mechanistic interpretability . My  c
 
 
 # 🔥 News
+- *2025.07*: 🎉🎉Excited to share that our work“From Spikes to Heavy Tails: Unveiling the Spectral Evolution of Neural Networks”  is accepted by [TMLR](https://openreview.net/forum?id=DJHB8eBUnt&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)).
 - *2025.05*: 🎉🎉 Excited to share that our work “LIFT the Veil for the Truth: Principal Weights Emerge after Rank Reduction for Reasoning-Focused Supervised Fine-Tuning” is accepted by [ICML 2025](https://icml.cc/) as **Poster**!
 - *2024.10*: &nbsp;😁 Completing a wonderful three-month visiting at Dartmouth College.
 - *2024.09*: &nbsp;🎉🎉 Excited to share that our work “Model Balancing Helps Low-data Training and Fine-tuning” is accepted by [EMNLP 2024](https://2024.emnlp.org) as **Oral Presentation**!
@@ -40,6 +41,25 @@ I am passionate about model diagnostics and mechanistic interpretability . My  c
 # 📝 Publications 
 
 （# denotes equal contribution）
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2025</div><img src='images/ICLR_2025_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+**From Spikes to Heavy Tails: Unveiling the Spectral Evolution of Neural Networks** 
+
+[Vignesh Kothapalli](https://kvignesh1420.github.io), **Tianyu Pang**, [Shenyang Deng](https://scholar.google.com/citations?user=TvUZLD8AAAAJ&hl=en&oi=ao), [Zongmin Liu](https://www.linkedin.com/in/zongmin-dylan-liu-73438a242/details/education/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
+
+[Code](https://github.com/kvignesh1420/single-index-ht)\|[Paper](https://arxiv.org/pdf/2406.04657)
+
+**TMLR 2025** 
+
+</div>
+
+</div>
 
 
 
@@ -103,20 +123,4 @@ I am passionate about model diagnostics and mechanistic interpretability . My  c
 **NeurIPS 2023 <span style="color: red;">Spotlight</span>**
 
 </div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICLR_2025_1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-**Crafting Heavy-Tails in Weight Matrix Spectrum without Gradient Noise** 
-
-[Vignesh Kothapalli](https://kvignesh1420.github.io), **Tianyu Pang**, [Shenyang Deng](https://scholar.google.com/citations?user=TvUZLD8AAAAJ&hl=en&oi=ao), [Zongmin Liu](https://www.linkedin.com/in/zongmin-dylan-liu-73438a242/details/education/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
-
-[Code](https://github.com/kvignesh1420/single-index-ht)\|[Paper](https://arxiv.org/pdf/2406.04657)
-
-In submisson, 2025
-
-</div>
-
 </div>
