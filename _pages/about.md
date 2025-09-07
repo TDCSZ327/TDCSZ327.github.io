@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Tianyu. I am an incoming Ph.D. student at Dartmouth College. I have the great honor of being advised by [Prof. Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/).
+Hi, I'm Tianyu. I am a Ph.D. student at Dartmouth College. I have the great honor of being advised by [Prof. Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/).
 
 I am passionate about model diagnostics and mechanistic interpretability . My  current research is focused on
 
