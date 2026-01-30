@@ -56,3 +56,18 @@ I am passionate about model diagnostics and mechanistic interpretability . My  c
 
 </div>
 </div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ICML2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+**LIFT the Veil for the Truth: Principal Weights Emerge after Rank Reduction for Reasoning-Focused Supervised Fine-Tuning**
+
+[Zihang Liu](https://zihanghliu.github.io/), **Tianyu Pang**, [Oleg Balabanov](https://obalabanov.github.io/), [Chaoqun Yang](https://openreview.net/profile?id=~Chaoqun_Yang2), [Tianjin Huang](https://tianjinyellow.github.io/),  [Lu Yin](https://luuyin.com/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/), [Shiwei Liu](https://shiweiliuiiiiiii.github.io/)
+
+[Code](https://github.com/zihanghliu/LIFT)\|[Paper](https://arxiv.org/abs/2506.00772)
+
+**ICML 2025 **
