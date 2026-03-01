@@ -32,7 +32,7 @@ I am passionate about model diagnostics and mechanistic interpretability . My  c
 
 
 # 🔥 News
-- *2026.2*: Our work“Suspicious Alignment of SGD:A Fine-Grained Step Size Condition Analysis”  was awarded the **Best Student Paper Award** at [ALT 2026](https://algorithmiclearningtheory.org/alt2026/accepted-papers/) .  
+- *2026.02*: Our work“Suspicious Alignment of SGD:A Fine-Grained Step Size Condition Analysis”  was awarded the **Best Student Paper Award** at [ALT 2026](https://algorithmiclearningtheory.org/alt2026/accepted-papers/) .  
 - *2025.07*: Our work“From Spikes to Heavy Tails: Unveiling the Spectral Evolution of Neural Networks”  is accepted by [TMLR](https://openreview.net/forum?id=DJHB8eBUnt&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)).
 - *2025.05*: Our work “LIFT the Veil for the Truth: Principal Weights Emerge after Rank Reduction for Reasoning-Focused Supervised Fine-Tuning” is accepted by [ICML 2025](https://icml.cc/) as **Poster**!
 - *2024.10*: &nbsp;😁 Completing a wonderful three-month visiting at Dartmouth College.
