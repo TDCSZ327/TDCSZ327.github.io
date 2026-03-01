@@ -32,7 +32,7 @@ I am passionate about model diagnostics and mechanistic interpretability . My  c
 
 
 # 🔥 News
-- *2025.12*: Our work“Suspicious Alignment of SGD:A Fine-Grained Step Size Condition Analysis”  is accepted by ALT 2026. Stay Tuned!
+- *2026.2*: Our work“Suspicious Alignment of SGD:A Fine-Grained Step Size Condition Analysis”  was awarded the **Best Student Paper Award** at [ALT 2026](https://algorithmiclearningtheory.org/alt2026/accepted-papers/) .  
 - *2025.07*: Our work“From Spikes to Heavy Tails: Unveiling the Spectral Evolution of Neural Networks”  is accepted by [TMLR](https://openreview.net/forum?id=DJHB8eBUnt&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)).
 - *2025.05*: Our work “LIFT the Veil for the Truth: Principal Weights Emerge after Rank Reduction for Reasoning-Focused Supervised Fine-Tuning” is accepted by [ICML 2025](https://icml.cc/) as **Poster**!
 - *2024.10*: &nbsp;😁 Completing a wonderful three-month visiting at Dartmouth College.
@@ -70,4 +70,31 @@ I am passionate about model diagnostics and mechanistic interpretability . My  c
 
 [Code](https://github.com/zihanghliu/LIFT)\|[Paper](https://arxiv.org/abs/2506.00772)
 
-**ICML 2025 **
+**ICML 2025**
+
+
+
+</div>
+</div>
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ALT 2026</div><img src='images/ALT2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+**Suspicious Alignment of SGD:A Fine-Grained Step Size Condition Analysis**
+
+[Shenyang Deng](https://dsyforever.github.io/), [Boyao Liao](https://openreview.net/profile?id=~Boyao_Liao1), [Zhuoli OuYang](https://openreview.net/profile?id=~Zhuoli_Ouyang1), **Tianyu Pang**, [Minhak Song](https://songminhak.github.io/),  [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
+
+[Code](https://github.com/xuan-lgbq/Suspicious-Alignment-of-SGD)\|[Paper](https://arxiv.org/pdf/2601.11789)
+
+**ALT 2026 Best Student Paper** 
+
+
+
+</div>
+</div>
