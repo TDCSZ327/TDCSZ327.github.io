@@ -52,7 +52,7 @@ I am passionate about model diagnostics and mechanistic interpretability . My  c
 
 [Code](https://github.com/YefanZhou/TempBalance)\|[Paper](https://arxiv.org/abs/2312.00359)\|[Video](https://recorder-v3.slideslive.com/?share=87192&s=14ff4069-14ea-4f19-bf8b-368a2db26dfd)
 
-**NeurIPS 2023 <span style="color: red;">Spotlight</span>**
+**NeurIPS 2023  Spotlight**
 
 </div>
 </div>
