@@ -45,11 +45,12 @@ I am passionate about model diagnostics and mechanistic interpretability . My  c
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/HTMuon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
 **HTMuon: Improving Muon via Heavy-Tailed Spectral Correction** 
 
 **Tianyu Pang**#, [Yujie Fang](https://openreview.net/profile?id=~Yujie_Fang7)#, [Zihang Liu](https://zihanghliu.github.io/), [Shenyang Deng](https://dsyforever.github.io/), [Lei Hsiung](https://hsiung.cc/),  [Shuhua Yu](https://shuhuayu.github.io/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
 
-[Code](https://github.com/TDCSZ327/HTmuon)\|[Paper]https://arxiv.org/pdf/2603.10067)\|
+[Code](https://github.com/TDCSZ327/HTmuon)\|[Paper](https://arxiv.org/pdf/2603.10067)
 
 arxiv preprint
 
