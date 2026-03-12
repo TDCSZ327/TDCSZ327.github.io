@@ -42,10 +42,22 @@ I am passionate about model diagnostics and mechanistic interpretability . My  c
 # 📝 Publications 
 
 （# denotes equal contribution）
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/HTMuon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**HTMuon: Improving Muon via Heavy-Tailed Spectral Correction** 
+
+**Tianyu Pang**#, [Yujie Fang](https://openreview.net/profile?id=~Yujie_Fang7)#, [Zihang Liu](https://zihanghliu.github.io/), [Shenyang Deng](https://dsyforever.github.io/), [Lei Hsiung](https://hsiung.cc/),  [Shuhua Yu](https://shuhuayu.github.io/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
+
+[Code](https://github.com/TDCSZ327/HTmuon)\|[Paper]https://arxiv.org/pdf/2603.10067)\|
+
+arxiv preprint
+
+</div>
+</div>  
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS_2023_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **Temperature Balancing, Layer-wise Weight Analysis, and Neural Network Training** 
 
 [Yefan Zhou](https://yefanzhou.github.io)#, **Tianyu Pang**#, [Keqin Liu](https://scholar.xjtlu.edu.cn/en/persons/kevin-liu), [Charles H. Martin](https://www.linkedin.com/in/charlesmartin14/), [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
