@@ -55,7 +55,7 @@ I am passionate about model diagnostics and mechanistic interpretability . My  c
 
 [Code](https://github.com/TDCSZ327/HTmuon)\|[Paper](https://arxiv.org/pdf/2603.10067)
 
-arxiv preprint
+**ACL 2026 Findings**
 
 </div>
 </div>  
