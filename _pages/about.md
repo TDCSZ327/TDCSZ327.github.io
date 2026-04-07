@@ -32,7 +32,7 @@ I am passionate about model diagnostics and mechanistic interpretability . My  c
 
 
 # 🔥 News
-- *2026.03*:  Two Papers are accepted by [ACL 2026](https://2026.aclweb.org/) .  
+- *2026.04*:  Two Papers are accepted by [ACL 2026](https://2026.aclweb.org/) .  
 - *2026.03*: Our work“Depth, Not Data: An Analysis of Hessian Spectral Bifurcation”  is accepted by [ISIT 2026](https://2026.ieee-isit.org/) .  
 - *2026.02*: Our work“Suspicious Alignment of SGD:A Fine-Grained Step Size Condition Analysis”  was awarded the **Best Student Paper Award** at [ALT 2026](https://algorithmiclearningtheory.org/alt2026/accepted-papers/) .  
 - *2025.07*: Our work“From Spikes to Heavy Tails: Unveiling the Spectral Evolution of Neural Networks”  is accepted by [TMLR](https://openreview.net/forum?id=DJHB8eBUnt&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)).
