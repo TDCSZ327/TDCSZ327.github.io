@@ -44,8 +44,9 @@ I am passionate about model diagnostics and mechanistic interpretability . My  c
 # 📝 Publications 
 
 （# denotes equal contribution）
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/HTMuon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/HTMuon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 
 **HTMuon: Improving Muon via Heavy-Tailed Spectral Correction** 
