@@ -59,7 +59,7 @@ I am passionate about model diagnostics and mechanistic interpretability . My  c
 
 [Code](https://github.com/TDCSZ327/Layer-Balancing)\|[Paper](https://arxiv.org/pdf/2606.00340)
 
-**ICML 2026 **
+**ICML 2026**
 
 </div>
 </div>  
