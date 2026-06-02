@@ -45,6 +45,25 @@ I am passionate about model diagnostics and mechanistic interpretability . My  c
 # 📝 Publications 
 
 （# denotes equal contribution）
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 </div><img src='images/ICML2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+**Balancing Learning Rates Across Layers: Exact Two-Step Dynamics and Optimal Scaling in Linear Neural Networks** 
+
+**Tianyu Pang**, [Vignesh Kothapalli](https://kvignesh1420.github.io/),  [Shenyang Deng](https://dsyforever.github.io/), [Haohui Wang](https://wanghh7.github.io/),  [Dawei Zhou](https://sites.google.com/view/dawei-zhou/home), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
+
+[Code](https://github.com/TDCSZ327/Layer-Balancing)\|[Paper](https://arxiv.org/pdf/2606.00340)
+
+**ICML 2026 **
+
+</div>
+</div>  
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/HTMuon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
